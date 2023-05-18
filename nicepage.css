@@ -41904,13 +41904,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 112px;
+  min-height: 97px;
 }
 
 .u-header .u-image-1 {
-  width: 97px;
-  height: 97px;
-  margin: 7px auto 0 15px;
+  width: 83px;
+  height: 83px;
+  margin: 7px auto 0 22px;
 }
 
 .u-header .u-logo-image-1 {
@@ -41919,11 +41919,15 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -51px 0 23px auto;
+  margin: -45px 0 14px auto;
 }
 
 .u-header .u-nav-1 {
   font-size: 1rem;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  font-family: "Fredoka One";
+  font-weight: 400;
 }
 
 .u-header .u-nav-2 {
@@ -41931,16 +41935,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
-    width: 97px;
-    height: 97px;
+    margin-left: 22px;
+    width: 83px;
+    height: 83px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-  }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
+    margin-top: -45px;
   }
 }
 
